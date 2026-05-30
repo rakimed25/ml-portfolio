@@ -32,3 +32,8 @@ Financial forecasting and portfolio modeling.
 - Studied non-stationary time series and regime shifts
 
 ---
+
+# 📫 Contact
+
+- Email: rakimed25@gmail.com  
+- LinkedIn: linkedin.com/in/mohammed-raki-4b6844199
